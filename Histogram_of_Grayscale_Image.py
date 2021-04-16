@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-
+from pylab import rcParams
 rcParams['figure.figsize'] = 8, 4
 
 path = ''
