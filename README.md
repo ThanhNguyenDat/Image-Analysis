@@ -1,4 +1,4 @@
-# Visualized
+# Image Analysis
 
 ## Histogram
 **What's in the histogram?**
