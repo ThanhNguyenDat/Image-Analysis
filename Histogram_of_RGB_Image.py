@@ -1,5 +1,5 @@
 import cv2
-
+from pylab import rcParams
 rcParams['figure.figsize'] = 8, 4
 
 path = ''
