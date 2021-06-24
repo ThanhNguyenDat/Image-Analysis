@@ -1,4 +1,4 @@
-# Image Analysis
+# Image Processing
 
 ## Histogram
 **What's in the histogram?**
