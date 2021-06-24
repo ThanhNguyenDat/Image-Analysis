@@ -1,3 +1,6 @@
+import cv2
+import numpy as np
+
 def NegativeColor(imageIn, imageOut):
     M, N, P = imageIn.shape
     for x in range(0, M):
